@@ -1,17 +1,12 @@
 # Type-Event - Gerenciamento de Eventos
 >Status: Em desenvolvimento (aprimoramento) 💻⚙️
 
-## Stacks Utilizadas no Projeto
-### Front-end
+## Tecnologias Utilizadas no Projeto
 * HTML
 * CSS
 * JavaScript
-
-### Back-end
 * Python
-* Framework Django
-
-### Banco de Dados
+* Django
 * SQLite
 <hr>
 
