@@ -1,4 +1,4 @@
-# Type-Event
+# Type-Event - Gerenciamento de Eventos
 >Status: Em desenvolvimento (aprimoramento) 💻⚙️
 
 ## Stacks Utilizadas no Projeto
