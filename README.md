@@ -1,7 +1,7 @@
-# Type-Event - Gerenciamento de Eventos
+## Type-Event - Gerenciamento de Eventos
 >Status: Em desenvolvimento (aprimoramento) 💻⚙️
 
-## Tecnologias Utilizadas no Projeto
+### Tecnologias Utilizadas no Projeto
 * HTML
 * CSS
 * JavaScript
